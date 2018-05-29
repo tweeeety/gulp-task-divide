@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "require-dir": "^1.0.0"
+  }
+}
